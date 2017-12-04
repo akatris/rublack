@@ -1,0 +1,4 @@
+node_modules/
+source/bundle.js
+fontawesome-*
+yarn-error.log

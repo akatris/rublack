@@ -1,0 +1,21 @@
+{
+  "name": "rublack",
+  "version": "0.0.1",
+  "description": "Flat moderate theme for Hexo.",
+  "main": "index.js",
+  "author": "Sitraka Ratsimba",
+  "license": "MIT",
+  "devDependencies": {
+    "bootstrap": "4.0.0-beta.2",
+    "css-loader": "^0.28.7",
+    "file-loader": "^1.1.5",
+    "font-awesome": "^4.7.0",
+    "less": "^2.7.3",
+    "less-loader": "^4.0.5",
+    "style-loader": "^0.19.0",
+    "webpack": "^3.9.1"
+  },
+  "scripts": {
+    "watch": "webpack -w"
+  }
+}
