@@ -3,7 +3,10 @@
   "version": "0.0.1",
   "description": "Flat moderate theme for Hexo.",
   "main": "index.js",
-  "author": "Sitraka Ratsimba",
+  "author": {
+    "name": "Sitraka Ratsimba",
+    "email": "ratsimbasitraka@gmail.com"
+  },
   "license": "MIT",
   "devDependencies": {
     "bootstrap": "4.0.0-beta.2",
@@ -17,5 +20,6 @@
   },
   "scripts": {
     "watch": "webpack --progress --watch"
-  }
+  },
+  "repository": "https://github.com/akatris/rublack.git"
 }
