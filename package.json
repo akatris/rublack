@@ -19,7 +19,7 @@
     "webpack": "^3.9.1"
   },
   "scripts": {
-    "watch": "webpack --progress --watch"
+    "watch": "webpack --watch"
   },
   "repository": "https://github.com/akatris/rublack.git"
 }
